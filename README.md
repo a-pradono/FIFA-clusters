@@ -19,7 +19,7 @@ This data was obtained from FIFA 21 complete player dataset, posted by Stefano L
   <img width="900" height="200" src="https://github.com/a-pradono/FIFA-clusters/blob/main/Images/workflow.png">
 </p>
 
-The workflow above demonstrates how I performed clustering analysis. Starting with the input data, I have performed data cleaning which resulted in creating a new data frame that includes only numeric values with overall players above 85. Furthermore, normalization has been performed before I applied principal component analysis (PCA) to reduce dimensionality in the data frame. Thus, the data was ready to create K-means clustering algorithms with the optimal number of clusters based on the elbow method. Finally, the scatterplot illustrates how players have been set into a number of groups. 
+The workflow above demonstrates how I performed clustering analysis. Starting with the input data, I have performed data cleaning which resulted in creating a new data frame that includes only numeric values with overall players above 85. Furthermore, normalization has been performed before I applied principal component analysis (PCA) to reduce dimensionality in the data frame. Thus, the data was ready to create K-means clustering algorithms with the optimal number of clusters based on the elbow method. Finally, the scatter plot illustrates how players have been set into a number of groups. 
 
 ## III. Results
 Just out of curiosity, these plots below show the distribution of player's physical characteristics and income who have overall above 85. One of the boxplots has an outlier in the player wage distribution plot with a wage of over 500000 euro per week.
