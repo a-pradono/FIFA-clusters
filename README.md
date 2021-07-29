@@ -28,7 +28,7 @@ Just out of curiosity, these plots below show the distribution of player's physi
   <img width="900" height="600" src="https://github.com/a-pradono/FIFA-clusters/blob/main/Images/plot001.png">
 </p>
 
-The elbow method was constructed to find the optimize a number of clusters by fitting the model with a range of values for K in K-means algorithm as shown below. This plot was using a line plot between values of K and inertia. Inertia is calculated by measuring the distance between each data point and its centroid, squaring the distance, and summing these squares across one cluster. On top of that, inertia measures how well a dataset was clustered by K-means = 4 based on where the decrease in inertia begins to slow.
+The elbow method was constructed to find the optimize a number of clusters by fitting the model with a range of values for K in K-means algorithm as shown below. This plot was using a line plot between values of K and inertia or sum of squared error (SSE). Inertia is calculated by measuring the distance between each data point and its centroid, squaring the distance, and summing these squares across one cluster. On top of that, inertia measures how well a dataset was clustered by K-means = 4 based on where the decrease in inertia begins to slow.
 
 <p align="center">
   <img width="500" height="300" src="https://github.com/a-pradono/FIFA-clusters/blob/main/Images/plot002.png">
