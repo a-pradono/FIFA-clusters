@@ -42,6 +42,6 @@ The scatter plot has been developed to visualize the results of K-means clusteri
 
 ## IV. Conclusions
 The objective of this project was to create a number of groups of FIFA players based on similar skills by implementing K-means clustering algorithms. The conclusions made from this project are:
-  * Within minutes, FIFA players have been grouped based on their positions.
+  * Within minutes, FIFA players have been into several positions based on their similar skills.
   * Some of the positions seemed a bit blurred. For example, defender and midfielder.
   * Overall, the clustering methods are easy to implement, relatively fast, and efficient.
