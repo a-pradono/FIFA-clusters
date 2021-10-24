@@ -1,6 +1,10 @@
 <p align="center">
-  <img width="300" height="150" src="https://github.com/a-pradono/FIFA-clusters/blob/main/Images/fifa-header.jpg">
+  <img width="300" height="150" src="https://github.com/a-pradono/FIFA-clusters/blob/main/Images/fifa_header.jpg">
 </p>
+
+<p align = "center">
+  Photo by JESHOOTS.com on [Unsplash](https://unsplash.com/photos/eCktzGjC-iU)
+ </p>
 
 ## Table of Contents
 
