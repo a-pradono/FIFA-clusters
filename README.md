@@ -13,7 +13,7 @@ Photo by <a href="https://unsplash.com/@jeshoots?utm_source=unsplash&utm_medium=
 - [IV. Conclusions](#iv-conclusions)
 
 ## I. Introduction
-One of my favorite video games on PlayStation is FIFA and I have played this game for about 11 years with some friends during our free time. FIFA is also known as one of the best-selling video game franchises under the EA Sports label. You can play with available national and club teams against CPU or your friends on your console. As someone who has grown up playing FIFA, it came to my realization that I should apply my data analytics skills to my favorite soccer video game. The objective of this project was to divide various players into several number of groups with similar skills as possible by using clustering algorithms.
+One of my favorite video games on PlayStation is FIFA and I have played this game since 2009 with some friends during our free time. FIFA is also known as one of the best-selling video game franchises under the EA Sports label. You can play with available national and club teams against CPU or your friends on your console. As someone who has grown up playing FIFA, it came to my realization that I should apply my data analytics skills to my favorite soccer video game. The objective of this project was to divide various players into several number of groups with similar skills as possible by using clustering algorithms.
 
 ## II. Data and Methodology
 This data was obtained from FIFA 21 complete player dataset, posted by Stefano Leone, consisting of +18K rows and +100 columns, and can be found on [www.kaggle.com](https://www.kaggle.com/stefanoleone992/fifa-21-complete-player-dataset). 
